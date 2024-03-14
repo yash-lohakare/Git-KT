@@ -9,3 +9,7 @@ function f1(){
 function f2(){
     console.log("Hello World");
 }
+
+function f2(){
+    console.log("Hello World");
+}
