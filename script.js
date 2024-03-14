@@ -13,3 +13,11 @@ function f3(){
 function f4(){
     console.log("Hello World");
 }
+
+function f5(){
+    console.log("Hello World");
+}
+
+function f6(){
+    console.log("Hello World");
+}
