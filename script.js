@@ -21,3 +21,5 @@ function f5(){
 function f6(){
     console.log("Hello World");
 }
+
+console.log("Demo")
